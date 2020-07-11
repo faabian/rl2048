@@ -7,6 +7,8 @@ See for example https://2048game.com/.
 ## Frameworks
 We use Keras, the keras-rl library for reinforcement learning models and the OpenAI Gym framework for modelling the interface. Note that keras-rl depends on tensorflow-1.x.
 
+keras-rl: https://github.com/keras-rl/keras-rl
+
 ## File overview:
 
 game.py : game logic and simple rendering
