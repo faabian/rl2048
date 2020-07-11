@@ -1,2 +1,2 @@
 # rl2048
-Reinforcement learning for 2048 game
+Reinforcement learning for the 2048 game
